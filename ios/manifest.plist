@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://tools.local/builds/ios/currentBuild.ipa</string>
+                    <string>http://10.1.24.55/builds/ios/currentBuild.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
